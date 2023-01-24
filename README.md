@@ -8,5 +8,8 @@ We're learning how to create a branch and how to put it all together.
 ## Features
 We're going to build some awesome features that you're going to love.
 
+## Test
+We did it :)
 ## Contributors
 - Daniel Mouris (@dgmouris)
+- Nidaa Aboulkacem (@naboulkacem1)
