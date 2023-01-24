@@ -10,3 +10,5 @@ We're going to build some awesome features that you're going to love.
 
 ## Contributors
 - Daniel Mouris (@dgmouris)
+
+## Nice
