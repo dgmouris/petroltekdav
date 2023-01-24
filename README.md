@@ -13,4 +13,8 @@ We're going to build some awesome features that you're going to love.
 - Gambit the Cat (@gambit_the_cat)
 - Ghost the Cat (@ghost_the_cat)
 - Marshmallow (@marshmallow)
+<<<<<<< HEAD
 - Abraar Ahmed
+=======
+- Kim Joshua Barrameda (@kimjoshua01)
+>>>>>>> d6341e4 (fixed merged conflict in kim's branch and master)
